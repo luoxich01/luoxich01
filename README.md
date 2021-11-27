@@ -1,10 +1,6 @@
 
 
-<a href="https://www.rishit.tech"></a>
- 
-
-
-Hi, I'm [Xichen Luo](https://www.linkedin.com/in/luoxich01/), a data scientist from San Francisco Bay Area
+Hi there, I'm [Xichen Luo](https://www.linkedin.com/in/luoxich01/), working to explore data!
 
 ** :robot: Languages & Tools **
 
