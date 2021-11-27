@@ -8,7 +8,7 @@ Hi, I'm [Xichen Luo](https://www.linkedin.com/in/luoxich01/) a data analyst from
 
 ### :robot: My top 10 technologies
 
-|![](https://github.com/luoxich01/images/blob/main/python.png)|![](https://github.com/luoxich01/images/blob/main/mysql.png)
+|![](https://github.com/luoxich01/images/blob/main/Python.png)|![](https://github.com/luoxich01/images/blob/main/mysql.png)
 |![](https://github.com/luoxich01/images/blob/main/R.png)|---|---|---|---|
 ||
 
