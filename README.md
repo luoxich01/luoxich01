@@ -6,7 +6,7 @@
 
 Hi, I'm [Xichen Luo](https://www.linkedin.com/in/luoxich01/), a data scientist from San Francisco Bay Area
 
-** :robot: My top 10 technologies **
+** :robot: Languages & Tools **
 
 <code><img height="20" src="https://github.com/luoxich01/images/blob/main/MySQL.png"></code>
 <code><img height="20" src="https://github.com/luoxich01/images/blob/main/Python.png"></code>
