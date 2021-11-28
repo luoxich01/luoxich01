@@ -1,4 +1,4 @@
-<code><img height="70" src="https://github.com/luoxich01/images/blob/main/Hi there! I am Xichen.gif"></code>
+<code><img src="https://github.com/luoxich01/images/blob/main/Hi there! I am Xichen.gif"></code>
 
 Hi there! I'm [Xichen Luo](https://www.linkedin.com/in/luoxich01/), working to explore data~
 
